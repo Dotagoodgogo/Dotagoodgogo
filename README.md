@@ -6,8 +6,6 @@ I am **Zhiyuan Gu**, a math-CS major at UCSD, and I am looking for opportunities
 
 These repositories are my individual projects during my undergraduate studies.
 
-# My Work
-
 Welcome to take a look and leave me your suggestions. You can find my projects [here](https://github.com/Dotagoodgogo).
 
 If you have any group projects related to the fields in my repositories, I would be happy to talk to you about them.
