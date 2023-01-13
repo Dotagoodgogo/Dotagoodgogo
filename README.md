@@ -1,7 +1,7 @@
 ### Hi there 👋,I am Zhiyuan Gu!
 
 ---
-I am Zhiyuan Gu
+I am **Zhiyuan Gu** majoring in Math-CS at UCSD and looking for being a software engineer or a game developer. My perfered languages are C++ and Python.
 ---
 
 <!--
