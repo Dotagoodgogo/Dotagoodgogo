@@ -2,6 +2,12 @@
 
 ---
 I am **Zhiyuan Gu** majoring in Math-CS at UCSD and looking for being a software engineer or a game developer. My perfered languages are C++ and Python.
+
+These repositories are my individual projects during my undergraduate life.
+
+Welcome to take a look and leave you suggestions.
+
+If you have some group projects with reltaive fields in my repositories and welcome to talk to me. I am welcome in.
 ---
 
 <!--
