@@ -1,14 +1,19 @@
 ### Hi there 👋,I am Zhiyuan Gu!
 
----
-I am **Zhiyuan Gu** majoring in Math-CS at UCSD and looking for being a software engineer or a game developer. My perfered languages are C++ and Python.
+# Introduction
 
-These repositories are my individual projects during my undergraduate life.
+I am **Zhiyuan Gu**, a math-CS major at UCSD, and I am looking for opportunities as a software engineer or game developer. My preferred programming languages are C++ and Python.
 
-Welcome to take a look and leave you suggestions.
+These repositories are my individual projects during my undergraduate studies.
 
-If you have some group projects with reltaive fields in my repositories and welcome to talk to me. I am welcome in.
----
+# My Work
+
+Welcome to take a look and leave me your suggestions. You can find my projects [here](https://github.com/Dotagoodgogo).
+
+If you have any group projects related to the fields in my repositories, I would be happy to talk to you about them.
+
+Thank you for your consideration.
+
 
 <!--
 **Dotagoodgogo/Dotagoodgogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
